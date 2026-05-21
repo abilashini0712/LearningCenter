@@ -119,7 +119,7 @@ export default function Navbar() {
 
               <li>
                 <Link
-                  href=""
+                  href=" "
                   className="block py-3 rounded-xl bg-fuchsia-600 text-white hover:bg-fuchsia-700 transition"
                 >
                   Contact
