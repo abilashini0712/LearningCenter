@@ -4,6 +4,7 @@ export const courses: Course[] = [
   {
     id: 1,
     title: "Web Development",
+    category:"Technology",
     duration: "4 Months",
     fee: "$150",
 
@@ -45,6 +46,7 @@ export const courses: Course[] = [
   {
     id: 2,
     title: "Graphic Design & UI/UX",
+     category:"Design",
     duration: "3 Months",
     fee: "$120",
 
@@ -86,6 +88,7 @@ export const courses: Course[] = [
   {
     id: 3,
     title: "English Communication Skills",
+     category:"Language",
     duration: "2 Months",
     fee: "$80",
 
@@ -127,6 +130,7 @@ export const courses: Course[] = [
   {
     id: 4,
     title: "Data Science & AI Basics",
+     category:"Technology",
     duration: "5 Months",
     fee: "$180",
 
@@ -168,6 +172,7 @@ export const courses: Course[] = [
   {
     id: 5,
     title: "Digital Marketing",
+     category:"Marketing",
     duration: "3 Months",
     fee: "$100",
 
@@ -209,6 +214,7 @@ export const courses: Course[] = [
   {
     id: 6,
     title: "Mobile App Development",
+     category:"Technology",
     duration: "4 Months",
     fee: "$160",
 

@@ -1,6 +1,7 @@
 export interface Course {
   id: number;
   title: string;
+  category: string;
   duration: string;
   fee: string;
   description: string;
@@ -19,3 +20,4 @@ export interface Course {
     access: string;
   };
 }
+
